@@ -24,10 +24,35 @@ body {
 .navi {
   float: right;
 }
-#piz-pap {
+.spantex1 {
   font-family: 'Shadows Into Light', cursive;
   font-size: 35px;
   font-weight: normal;
   color: rgb(255, 47, 0);
 }
+.exc {
+  color: yellow;
+}
+.karibu-txt {
+  margin-top: 160px;
+}
 
+.txt {
+  font-family: system-ui, cursive;
+  color: black;
+  font-size: 23px;
+}
+
+.txt-big {
+  font-size: 50px;
+  font-family: 'Shadows Into Light', cursive;
+  color: rgb(248, 18, 106);
+}
+
+.karibu-img {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 130px;
+  height: 400px;
+  width: 400p
+}
