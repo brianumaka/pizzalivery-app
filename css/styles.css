@@ -62,7 +62,7 @@ body {
 }
 .menu {
   margin-top: 30px;
-  background-image: url("../images/sec/b3.jpg");
+  background-image: url("../images/sec/b5.jpg");
   padding: 0;
 }
 
@@ -156,5 +156,17 @@ h4 {
 #list {
   color: rgb(0, 0, 0);
 }
-
+#contact h2{
+  text-align: center;
+}
+#contact{
+  color: black;
+  margin-top: 40px;
+}
+#contactdetails h2{
+  text-align: left;
+}
+.footer{
+  padding-top: 5%;
+}
 
