@@ -21,7 +21,7 @@ $(function () {
             case flavour = "vegtikka":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -33,7 +33,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -45,7 +45,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -61,7 +61,7 @@ $(function () {
             case flavour = "chickentikka":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -73,7 +73,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -85,7 +85,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -101,7 +101,7 @@ $(function () {
             case flavour = "periperi":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -113,7 +113,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -125,7 +125,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -141,7 +141,7 @@ $(function () {
             case flavour = "bbq":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -153,7 +153,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -165,7 +165,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -181,7 +181,7 @@ $(function () {
             case flavour = "boerewors":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -193,7 +193,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -205,7 +205,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -221,7 +221,7 @@ $(function () {
             case flavour = "hawaiian":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -233,7 +233,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -245,7 +245,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -261,7 +261,7 @@ $(function () {
             case flavour = "mushroom":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -273,7 +273,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -285,7 +285,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -301,7 +301,7 @@ $(function () {
             case flavour = "regina":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 450;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -313,7 +313,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 750;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -325,7 +325,7 @@ $(function () {
                         }
                         break;
                     case size = "large":
-                        price = 1200;
+                        price = 1500;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -341,16 +341,16 @@ $(function () {
         }
         switch (topping) {
             case topping = "tomato":
-                totalPrice = totalPrice + 80;
+                totalPrice = totalPrice + 100;
                 break;
             case topping = "onions":
-                totalPrice = totalPrice + 80;
+                totalPrice = totalPrice + 100;
                 break;
             case topping = "mushroom":
-                totalPrice = totalPrice + 80;
+                totalPrice = totalPrice + 100;
                 break;
             case topping = "greenpepper":
-                totalPrice = totalPrice + 80;
+                totalPrice = totalPrice + 100;
                 break;
             case topping = "olives":
                 totalPrice = totalPrice + 120;
@@ -368,10 +368,10 @@ $(function () {
                 totalPrice = totalPrice + 120;
                 break;
             case topping = "beef":
-                totalPrice = totalPrice + 170;
+                totalPrice = totalPrice + 220;
                 break;
             case topping = "chicken":
-                totalPrice = totalPrice + 170;
+                totalPrice = totalPrice + 220;
                 break;
 
         }
